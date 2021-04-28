@@ -4,7 +4,7 @@ Open command line terminal.
 
 ## Step 2:
 Run the command<br/>
-pip install git+https://github.com/VoLinhTruc/Peritec_MultiThreading.git
+pip install git+https://github.com/TrucPeritec/Peritec_MultiThreading.git
 
 <br/>
 <br/>
